@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Data files
+bank.dat
+
+# VS Code settings
+.vscode/
