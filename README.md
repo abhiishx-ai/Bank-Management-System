@@ -62,22 +62,24 @@
 
 ## 📂 Project Structure
 
-Bank-Management-System/
-│
-├── main.c
-├── account.c / account.h
-├── file.c / file.h
-├── ui.c / ui.h
-├── utils.c / utils.h
-│
-├── assets/
-│ ├── menu.png
-│ ├── analytics.png
-│ ├── display.png
-│ └── demo.gif
-│
-├── bank.dat
-└── README.md
+## 📂 Project Structure
+
+### 🔹 Source Files
+- `main.c`
+- `account.c / account.h`
+- `file.c / file.h`
+- `ui.c / ui.h`
+- `utils.c / utils.h`
+
+### 🖼 Assets
+- `assets/menu.png`
+- `assets/analytics.png`
+- `assets/display.png`
+- `assets/demo.gif`
+
+### 📁 Other Files
+- `bank.dat`
+- `README.md`
 
 ---
 
@@ -87,7 +89,7 @@ Bank-Management-System/
 
 gcc main.c account.c file.c ui.c utils.c -o bank
 
+---
 
 👨‍💻 Author
-
-Abhishek Verma
+### Abhishek Verma
