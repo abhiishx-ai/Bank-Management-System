@@ -86,6 +86,7 @@
 ### 🔧 Compile
 
 gcc main.c account.c file.c ui.c utils.c -o bank
+.\bank.exe
 
 ---
 
