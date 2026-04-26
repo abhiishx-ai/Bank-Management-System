@@ -62,8 +62,6 @@
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ### 🔹 Source Files
 - `main.c`
 - `account.c / account.h`
